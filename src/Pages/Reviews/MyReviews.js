@@ -10,7 +10,6 @@ import Swal from "sweetalert2";
 const MyReviews = () => {
   const { user, logOut } = useContext(AuthContext);
   useTitle("My reviews");
-  // console.log(user);
   const [reviews, setReviews] = useState([]);
   // console.log(reviews);
   useEffect(() => {
