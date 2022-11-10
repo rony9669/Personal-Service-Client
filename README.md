@@ -2,7 +2,7 @@
 
 # Project Title: Computer Engineering
 
-## Live website link: https://computer-science-departm-bc581.firebaseapp.com/
+## Live website link:
 
 #
 
