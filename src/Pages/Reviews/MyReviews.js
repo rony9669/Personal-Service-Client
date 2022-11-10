@@ -11,7 +11,6 @@ const MyReviews = () => {
   const { user, logOut } = useContext(AuthContext);
   useTitle("My reviews");
   const [reviews, setReviews] = useState([]);
-  // console.log(reviews);
   useEffect(() => {
     //https://assignment-11-server-delta.vercel.app/reviews?service=${serviceDetails._id}
     fetch(
