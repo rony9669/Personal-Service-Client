@@ -67,7 +67,6 @@ const Header = () => {
                 My Reviews
               </Link>
             )}
-            {/* light mood */}
           </Nav>
           <Nav>
             <>
