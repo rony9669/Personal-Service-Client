@@ -8,7 +8,6 @@ import useTitle from "../../Hooks/useTitle";
 const Services = () => {
   const [services, setServices] = useState([]);
   useTitle("All Services");
-  // console.log(services);
 
   useEffect(() => {
     fetch("https://assignment-11-server-delta.vercel.app/home/services")
