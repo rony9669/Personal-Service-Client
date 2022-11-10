@@ -9,7 +9,7 @@ const ContactUs = () => {
           <div className="row">
             <div className="copyright-text ">
               <p className=" text-center">
-                Copyright &copy; 2022, All Right Reserved{" "}
+                Copyright &copy; 2022, All Right Reserved
               </p>
             </div>
           </div>
