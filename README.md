@@ -1,23 +1,25 @@
 ---
 
-# Project Title: Computer Engineering
+# Project Title: Mishu's Kitchen
 
-## Live website link:
+## Live website link:https://mishus-kitchen.firebaseapp.com/
 
 #
 
 ## Features
 
-- Light/dark mode toggle
-- Responsive
+- Dynamic Functionality
 - Dynamic Website
 - Registration
 - Login
 - Private Route
-- Email 📧 verification
-- PDF Downloading System
 - Blog
-- FAQ Page
+- Responsive Slider
+- Contact Section
+- Responsive Navbar
+- Update Functionality
+- Delete Functionality
+- Review System
 
 #
 
@@ -25,6 +27,9 @@
 
 - React js
 - React Bootstrap
+- React Icon
+- SweetToast2
+- Firebase
 
 #
 
