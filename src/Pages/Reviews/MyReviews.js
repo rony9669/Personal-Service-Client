@@ -12,7 +12,6 @@ const MyReviews = () => {
   useTitle("My reviews");
   const [reviews, setReviews] = useState([]);
   useEffect(() => {
-    //https://assignment-11-server-delta.vercel.app/reviews?service=${serviceDetails._id}
     fetch(
       `https://assignment-11-server-delta.vercel.app/myreviews?email=${user?.email}`,
       {
